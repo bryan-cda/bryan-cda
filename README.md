@@ -54,11 +54,11 @@
 
 ##
 
-[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&include_all_commits=true)](https://github.com/bryan-cda/github-readme-stats)
+## Atividades
+[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&theme=dark&include_all_commits=true)](https://github.com/bryan-cda/github-readme-stats)
 
-<div>
-  	<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-cda&layout=compact&langs_count=10&theme=dark"/>
-</div>
+## Linguagens mais usadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-cda&layout=compact&theme=dark&langs_count=10)](https://github.com/bryan-cda/github-readme-stats)
 
 ##
 																		    
