@@ -57,7 +57,6 @@
 [![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&include_all_commits=true)](https://github.com/bryan-cda/github-readme-stats)
 
 <div>
-	<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=bryan-cda&show_icons=true&include_all_commits=true&theme=dark"/>
   	<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-cda&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
