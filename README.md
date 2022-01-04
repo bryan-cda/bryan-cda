@@ -3,7 +3,7 @@
 
 ## Informações Acadêmicas
 <div>
-	<div>💼 Atualmente trabalhando na Tata Valid </div>
+	<div>💼 Atualmente trabalhando na empresa Valid </div>
 	<div>🎓 Graduado em Sistemas para Web pela Unicesumar </div>
 	<div>👨‍🎓 Pós graduando em Engenharia de Software PUC-MG </div>
 	<div>👨‍🎓 Pós graduando em Arquitetura de Software Distruibuídos PUC-MG </div>
