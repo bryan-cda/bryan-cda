@@ -55,13 +55,16 @@
 ##
 
 ## Atividades
-[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&theme=dark&include_all_commits=true&count_private=true)](https://github.com/bryan-cda/github-readme-stats)
+
+
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-cda&count_private=true&include_all_commits=true&theme=dark)
 
 ## Linguagens mais usadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-cda&layout=compact&theme=dark&langs_count=10)](https://github.com/bryan-cda/github-readme-stats)
 
 
 ##
-																		    
+
 																		    
 
