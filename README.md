@@ -73,7 +73,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda)](https://github.com/bryan-cda/github-readme-stats)
+[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda)](https://github.com/bryan-cda/github-readme-stats)
 
 
 
