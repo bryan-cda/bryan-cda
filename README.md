@@ -1,8 +1,5 @@
 # Olá, sou um Engenheiro de Software apaixonado por Backend
 
-<! - START_SECÇÃO: waka ->
-<! - END_SECTION: waka ->
-
 
 ## Informações Acadêmicas
 <div>
