@@ -64,8 +64,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryan-cda&layout=compact&theme=dark&langs_count=10)](https://github.com/bryan-cda/github-readme-stats)
 
 ##
+<!--START_SECTION:waka-->
 
 [![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda)](https://github.com/bryan-cda/github-readme-stats)
+
+
+<!--END_SECTION:waka-->
 
 
 
