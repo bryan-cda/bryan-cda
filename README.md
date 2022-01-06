@@ -71,7 +71,7 @@
 <!--END_SECTION:waka-->
 
 
-[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&custom_title=total_de_tempo_programando&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&custom_title=tempo_programando_essa_semana&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
