@@ -71,8 +71,7 @@
 <!--END_SECTION:waka-->
 
 
-[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bryancda&theme=dark)](https://github.com/bryan-cda/github-readme-stats)
-
+[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
