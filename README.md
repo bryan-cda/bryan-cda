@@ -66,11 +66,6 @@
 ##
 
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-
 [![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&custom_title=tempo_programando_essa_semana&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
 
 
