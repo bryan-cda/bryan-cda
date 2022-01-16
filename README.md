@@ -58,11 +58,12 @@
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=linguaguagens_usadas&username=bryan-cda&layout=compact&theme=dark&langs_count=10)](https://github.com/bryan-cda/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?exclude_repo=Python&custom_title=linguaguagens_usadas&username=bryan-cda&layout=compact&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 
 
 [![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&custom_title=tempo_programando_essa_semana&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
