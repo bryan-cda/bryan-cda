@@ -1,18 +1,18 @@
-# Olá, sou um Engenheiro de Software apaixonado por Backend
+# Hello, I'm a brazilian Software Engineer passionate about Backend
 
 
-## Informações Acadêmicas
+## Academic Information
 <div>
-	<div>💼 Atualmente trabalhando na empresa Valid </div>
-	<div>🎓 Graduado em Sistemas para Web pela Unicesumar </div>
-	<div>👨‍🎓 Pós graduando em Engenharia de Software PUC-MG </div>
-	<div>👨‍🎓 Pós graduando em Arquitetura de Software Distruibuídos PUC-MG </div>
-	<div>👨‍🎓 Cursando inglês pelo BRASAS </div>	
+<div>💼 Currently working at Valid company </div>
+<div>🎓 Graduated in Web Systems from Unicesumar </div>
+<div>👨‍🎓 Postgraduate student in Software Engineering at PUC-MG </div>
+<div>👨‍🎓 Postgraduate student in Distributed Software Architecture at PUC-MG </div>
+<div>👨‍🎓 Studying English at BRASAS </div>
 </div>
 
 ##
-	
-## Algumas tecnologias das quais já trabalhei ou tive um mínimo contato
+
+## Some technologies I've worked with or had minimal contact with
 
 <div>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;">
@@ -54,15 +54,18 @@
 
 ##
 
-![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?custom_title=registro_de_atividades&username=bryan-cda&count_private=true&include_all_commits=true&theme=dark)
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?custom_title=activities&username=bryan-cda&count_private=true&include_all_commits=true&theme=vue-dark)
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&custom_title=linguaguagens_usadas&username=bryan-cda&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=most-used-languages&username=bryan-cda&layout=default&theme=vue-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 
 
-[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=dark&custom_title=tempo_programando_essa_semana&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
+[![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&custom_title=time-spent-programming-in-the-week&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
