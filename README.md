@@ -5,9 +5,8 @@
 <div>
 <div>💼 Currently working at Valid company </div>
 <div>🎓 Graduated in Web Systems from Unicesumar </div>
-<div>👨‍🎓 Postgraduate student in Software Engineering at PUC-MG </div>
 <div>👨‍🎓 Postgraduate student in Distributed Software Architecture at PUC-MG </div>
-<div>👨‍🎓 Studying English at BRASAS </div>
+<div>👨‍🎓 Studying English at English Academy </div>
 </div>
 
 ##
