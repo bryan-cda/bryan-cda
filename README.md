@@ -57,12 +57,6 @@
 
 ## 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?custom_title=most-used-languages&username=bryan-cda&layout=default&theme=vue-dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bryan-cda)](https://github.com/anuraghazra/github-readme-stats)
-
-## 
-
 [![Bryan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=vue-dark&custom_title=time-spent-programming-in-the-week&username=bryancda)](https://github.com/anuraghazra/github-readme-stats)
 
 
