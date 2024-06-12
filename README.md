@@ -3,7 +3,7 @@
 
 ## Academic Information
 <div>
-<div>💼 Currently working at banking company </div>
+<div>💼 Currently working at consulting company </div>
 <div>🎓 Graduated in Web Systems from Unicesumar </div>
 <div>👨‍🎓 Postgraduate student in Distributed Software Architecture at Anhanguera </div>
 <div>👨‍🎓 Studying English at English Academy </div>
